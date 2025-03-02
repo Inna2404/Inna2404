@@ -1,7 +1,10 @@
 <div align="center">
+<div>
 <h1> Hi, I`m Inna👋 </h1>
 
 <h3 >A passionate frontend developer from Ukraine. I love creating interactive user experiences and constantly improving my skills</h3>
+</div>
+
 
  <h3>Languages and Tools:</h3>
   <p> 
