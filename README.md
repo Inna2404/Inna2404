@@ -1,4 +1,3 @@
-<div align="center">
 <div>
 <h1> Hi, I`m Inna👋 </h1>
 
@@ -6,6 +5,7 @@
 </div>
 
 
+<div align="center">
  <h3>Languages and Tools:</h3>
   <p> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
