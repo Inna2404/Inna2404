@@ -1,8 +1,8 @@
+<div align="center">
 ## Hi, I`m Inna👋
 
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 
-<div align="center">
   <h3>Languages and Tools:</h3>
   <p> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
